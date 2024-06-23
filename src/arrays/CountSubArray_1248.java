@@ -1,3 +1,6 @@
+package arrays;
+
+import java.util.Arrays;
 import java.util.HashMap;
 // Solution by Engineering Digest.
 
@@ -12,5 +15,6 @@ public class CountSubArray_1248 {
             map.put(curr,map.getOrDefault(curr,0)+1);
         }
         return res;
+
     }
 }
