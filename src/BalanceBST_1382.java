@@ -17,7 +17,7 @@ class TreeNode {
 }
 
 
-public class BalanceBST_1038 {
+public class BalanceBST_1382 {
     private List<TreeNode> list = new ArrayList<TreeNode>();
 
     public TreeNode balanceBST(TreeNode root) {
